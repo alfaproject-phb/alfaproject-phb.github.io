@@ -1,37 +1,32 @@
 - name: GitHub
-  url: http://github.com/phlow
+  url: https://github.com/alfaproject-phb
   class: icon-github
-  title: Code und mehr...
+  title: Open source analysis code of our projects...
 
 - name: YouTube
-  url: http://www.youtube.com/PhlowMedia
+  url: https://www.youtube.com/channel/UCM0hgFaHa13jEc1jleSu1YQ
   class: icon-youtube
-  title: "Videos, Video-Anleitungen und Filme von Phlow auf YouTube"
+  title: "Videos about research and academic work"
 
-- name: Twitter
-  url: http://twitter.com/phlow
-  class: icon-twitter
-  title: "Immer das Neuste von Phlow gibt es auf Twitter"
+# - name: Twitter
+#  url: http://twitter.com/phlow
+#  class: icon-twitter
+#  title: "Immer das Neuste von Phlow gibt es auf Twitter"
 
-- name: Mixcloud
-  url: http://www.mixcloud.com/phlow/
-  class: icon-cloud
-  title: "Mixe, was sonst?"
-
-# - name: Facebook
-#   url: http://www.facebook.com/
-#   class: icon-facebook
-#   title: ""
+ - name: Facebook
+   url: https://www.facebook.com/profile.php?id=100090489201795
+   class: icon-facebook
+   title: "Our Facebook-Page"
 
 # - name: Soundcloud
 #   url: http://soundcloud.com/
 #   class: icon-soundcloud
 #   title: ""
 
-# - name: Instagram
-#   url: http://instagram.com/
-#   class: icon-instagram
-#   title: ""
+ - name: Instagram
+   url: https://www.instagram.com/alfaproject.phb/
+   class: icon-instagram
+   title: "Our Instagram-Page"
 
 # - name: Pinterest
 #   url: http://www.pinterest.com/
