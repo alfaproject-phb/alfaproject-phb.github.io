@@ -26,7 +26,7 @@ author: Joseph Birke
 # This URL is the main address for absolute links. Don't include a slash at the end.
 #
 url: 'https://alfaproject-phb.github.io'
-baseurl: ''
+baseurl: '/alfa-phb.github.io'
 
 # This is for the editing function in _/includes/improve_content
 # Leave it empty if your site is not on GitHub/GitHub Pages
@@ -112,7 +112,7 @@ defaults:
       show_meta: false 	# Hide metadata for all pages
       # sidebar:    		# Possible values › left, right › by default there will be no sidebar
       comments: false
-      author: phlow     # Default author for pages
+      author: Joseph Birke     # Default author for pages
   -
     scope:
       path: ''
@@ -121,7 +121,7 @@ defaults:
       show_meta: true   # Show metadata for all posts
       # sidebar:        # Possible values › left, right › by default there will be no sidebar
       comments: false
-      author: phlow     # Default author for posts
+      author: Joseph Birke     # Default author for posts
 
 
 
@@ -142,9 +142,9 @@ defaults:
 #    \__ \/ __/ / / / /
 #   ___/ / /___/ /_/ /
 #  /____/_____/\____/    Verify Website to Webmaster Tools
-
-google_site_verification        : 'Vk0IOJ2jwG_qEoG7fuEXYqv0m2rLa8P778Fi_GrsgEQ'
-bing_webmastertools_id          : '0FB4C028ABCF07C908C54386ABD2D97F'
+#
+#google_site_verification        : 'Vk0IOJ2jwG_qEoG7fuEXYqv0m2rLa8P778Fi_GrsgEQ'
+#bing_webmastertools_id          : '0FB4C028ABCF07C908C54386ABD2D97F'
 # yandex_site_verification      : ''
 # alexa_verify_id               : ''
 
@@ -157,18 +157,18 @@ bing_webmastertools_id          : '0FB4C028ABCF07C908C54386ABD2D97F'
 #   /_/    \__,_/ |___/_/\___/\____/_/ /_/____/   Favicon-Crap: Favicons, Chrome, Android & Apple Touch Buttons
 #                                                 More information » https://mathiasbynens.be/notes/touch-icons
 
-favicon-32x32                        : 'favicon-32x32.png'
-touch-icon-192x192                   : 'touch-icon-192x192.png'
-apple-touch-icon-180x180-precomposed : 'apple-touch-icon-180x180-precomposed.png'
-apple-touch-icon-152x152-precomposed : 'apple-touch-icon-152x152-precomposed.png'
-apple-touch-icon-144x144-precomposed : 'apple-touch-icon-144x144-precomposed.png'
-apple-touch-icon-120x120-precomposed : 'apple-touch-icon-120x120-precomposed.png'
-apple-touch-icon-114x114-precomposed : 'apple-touch-icon-114x114-precomposed.png'
-apple-touch-icon-76x76-precomposed   : 'apple-touch-icon-76x76-precomposed.png'
-apple-touch-icon-72x72-precomposed   : 'apple-touch-icon-72x72-precomposed.png'
-apple-touch-icon-precomposed         : 'apple-touch-icon-precomposed.png'
-msapplication_tileimage              : 'msapplication_tileimage.png'               # Size 144x144
-msapplication_tilecolor              : '#fabb00'
+#favicon-32x32                        : 'favicon-32x32.png'
+#touch-icon-192x192                   : 'touch-icon-192x192.png'
+#apple-touch-icon-180x180-precomposed : 'apple-touch-icon-180x180-precomposed.png'
+#apple-touch-icon-152x152-precomposed : 'apple-touch-icon-152x152-precomposed.png'
+#apple-touch-icon-144x144-precomposed : 'apple-touch-icon-144x144-precomposed.png'
+#apple-touch-icon-120x120-precomposed : 'apple-touch-icon-120x120-precomposed.png'
+#apple-touch-icon-114x114-precomposed : 'apple-touch-icon-114x114-precomposed.png'
+#apple-touch-icon-76x76-precomposed   : 'apple-touch-icon-76x76-precomposed.png'
+#apple-touch-icon-72x72-precomposed   : 'apple-touch-icon-72x72-precomposed.png'
+#apple-touch-icon-precomposed         : 'apple-touch-icon-precomposed.png'
+#msapplication_tileimage              : 'msapplication_tileimage.png'               # Size 144x144
+#msapplication_tilecolor              : '#fabb00'
 
 
 #       ______                __                __
@@ -177,9 +177,9 @@ msapplication_tilecolor              : '#fabb00'
 #    / __/ / /_/ / /__/  __/ /_/ / /_/ / /_/ / ,<
 #   /_/    \__,_/\___/\___/_.___/\____/\____/_/|_|      Facebook-Optimization › http://j.mp/fb_optimize
 
-og_image                             : 'http://images.phlow.de/phlow/phlow_de-logo-512x.png'
-og_locale                            : 'en_EN'
-og_type                              : 'website'
+#og_image                             : 'http://images.phlow.de/phlow/phlow_de-logo-512x.png'
+#og_locale                            : 'en_EN'
+#og_type                              : 'website'
 
 
 #      _____            _       __   __  ___         ___
@@ -191,9 +191,9 @@ og_type                              : 'website'
 #  Open _data/socialmedia.yml to adjust the left and right topbar navigation
 #
 
-socialmedia:
-    twitter   : 
-    facebook  : 
+#socialmedia:
+#    twitter   : 
+#    facebook  : 
 
 
 #        ____  _
