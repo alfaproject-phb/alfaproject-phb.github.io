@@ -1,7 +1,7 @@
 - name: GitHub
   url: https://github.com/alfaproject-phb
   class: icon-github
-  title: Open source analysis code of our projects...
+  title: "Open source analysis code of our projects..."
 
 - name: YouTube
   url: https://www.youtube.com/channel/UCM0hgFaHa13jEc1jleSu1YQ
