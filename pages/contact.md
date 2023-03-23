@@ -1,9 +1,15 @@
 ---
 layout              : page
 title               : "Contact"
-meta_title          : "Contact and use our contact form"
+meta_title          : "Contact us"
 subheadline         : "Contact Form"
-teaser              : "Get in touch with me? Use the contact form."
+teaser              : "Get in touch with us? Here you find our contact info."
 permalink           : "/contact/"
 ---
-If you need a fabulous contact form for your website, I suggest you use the free version of [Wufoo](http://www.wufoo.com/)
+
+**Project Management**
+Prof. Dr. Rebecca Bondü & M.Sc. Joseph B. Birke 
+
+Psychologische Hochschule Berlin (PHB) 
+Am Köllnischen Park 2 10179 Berlin 
+Kontakt: r.bondue@phb.de
