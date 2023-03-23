@@ -3,10 +3,10 @@ layout              : page
 show_meta           : false
 title               : "About Us"
 subheadline         : "Introducing the ALFA-Project"
-teaser              : "A short introduction about us and ahe aim of the project."
+teaser              : "A short introduction about us and the aim of the project"
 header:
    image_fullwidth  : "header_homepage_13.jpg"
-permalink           : "/getting-started/"
+permalink           : "/about-us/"
 ---
 
 
