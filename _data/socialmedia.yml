@@ -14,9 +14,9 @@
 #  title: "Immer das Neuste von Phlow gibt es auf Twitter"
 
 - name: Facebook
-   url: https://www.facebook.com/profile.php?id=100090489201795
-   class: icon-facebook
-   title: "Our Facebook-Page"
+  url: https://www.facebook.com/profile.php?id=100090489201795
+  class: icon-facebook
+  title: "Our Facebook-Page"
 
 # - name: Soundcloud
 #   url: http://soundcloud.com/
@@ -24,9 +24,9 @@
 #   title: ""
 
 - name: Instagram
-   url: https://www.instagram.com/alfaproject.phb/
-   class: icon-instagram
-   title: "Our Instagram-Page"
+  url: https://www.instagram.com/alfaproject.phb/
+  class: icon-instagram
+  title: "Our Instagram-Page"
 
 # - name: Pinterest
 #   url: http://www.pinterest.com/
