@@ -2,11 +2,11 @@
 layout: page
 sidebar: left
 subheadline: Templates
-title:  "Page/Post With Left Sidebar"
-teaser: "This is a example of page/post with a sidebar on the left."
+title:  "Adapting Code for the website"
+teaser: "This is my test of adapting the website."
 breadcrumb: true
 tags:
-    - post format
+    - Adaptation
 categories:
     - design
 image:
@@ -14,7 +14,7 @@ image:
     title: gallery-example-3.jpg
     caption_url: http://unsplash.com
 ---
-*Feeling Responsive* shows metadata by default. The default behaviour can be changed via `config.yml`. To show metadata at the end of a page/post just add the following to front matter:
+*ALFA-Project* needs a website and this is a test of my ability to adapt this website:
 <!--more-->
 
 ~~~
