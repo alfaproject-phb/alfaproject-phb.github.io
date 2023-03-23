@@ -23,15 +23,14 @@ $body-bg            : #fdfdfd;
 
 
 /* Corporate Identity Colorpalette
-   https://color.adobe.com/de/Flat-Design-Colors-v2-color-theme-4341903/
 ------------------------------------------------------------------- */
 
-$ci-1               : #334D5C; // dark turquoise
-$ci-2               : #45B29D; // turquoise
-$ci-3               : #EFC94C; // yellow
-$ci-4               : #E27A3F; // orange
-$ci-5               : #DF4949; // red
-$ci-6               : #A1D044; // green
+$ci-1               : #4B6A8A; // main color based on the logo color
+$ci-2               : #7A9ABE; // lighter version of the main color
+$ci-3               : #A3C3E2; // even lighter version of the main color
+$ci-4               : #EFEFEF; // light gray for background
+$ci-5               : #B8B8B8; // medium gray for text
+$ci-6               : #707070; // dark gray for accents
 
 
 
@@ -39,13 +38,11 @@ $ci-6               : #A1D044; // green
 ------------------------------------------------------------------- */
 
 $primary-color      : $ci-1;
-$secondary-color    : $ci-6;
+$secondary-color    : $ci-2;
 $alert-color        : $ci-5;
 $success-color      : $ci-6;
-$warning-color      : $ci-4;
-$info-color         : $ci-1;
-
-
+$warning-color      : $ci-3;
+$info-color         : $ci-1
 
 /* Grey Scale
 ------------------------------------------------------------------- */
