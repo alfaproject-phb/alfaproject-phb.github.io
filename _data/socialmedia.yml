@@ -13,7 +13,7 @@
 #  class: icon-twitter
 #  title: "Immer das Neuste von Phlow gibt es auf Twitter"
 
- - name: Facebook
+- name: Facebook
    url: https://www.facebook.com/profile.php?id=100090489201795
    class: icon-facebook
    title: "Our Facebook-Page"
@@ -23,7 +23,7 @@
 #   class: icon-soundcloud
 #   title: ""
 
- - name: Instagram
+- name: Instagram
    url: https://www.instagram.com/alfaproject.phb/
    class: icon-instagram
    title: "Our Instagram-Page"

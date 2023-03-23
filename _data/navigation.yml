@@ -9,7 +9,7 @@
 - title: "Templates"
   url: "/design/"
   side: left
-  dropdown:
+  
 
 - title: "Header Styles"
   url: "/headers/"
