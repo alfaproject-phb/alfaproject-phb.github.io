@@ -14,7 +14,7 @@ widget1:
   text: 'Here you can find informations about our current research project. Get informed and participate'
 widget2:
   title: "Our Publications"
-  url: 'alfaproject-phb.github.io/publication/'
+  url: 'http://alfaproject-phb.github.io/publication/'
   image: widget-1-302x182.jpg
   text: 'Here you can find a quick and informative overview of our published papers.'
   
