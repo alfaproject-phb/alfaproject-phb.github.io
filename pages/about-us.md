@@ -5,7 +5,7 @@ title               : "About Us"
 subheadline         : "Introducing the ALFA-Project"
 teaser              : "A short introduction about us and the aim of the project"
 header:
-   image_fullwidth  : "header_homepage_13.jpg"
+  image_fullwidth: header_unsplash_12.jpg
 permalink           : "/about-us/"
 ---
 
