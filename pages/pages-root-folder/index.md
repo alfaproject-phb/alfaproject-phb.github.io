@@ -47,16 +47,3 @@ permalink: /index.html
 homepage: true
 ---
 
-{% comment %}Start of the new welcome section{% endcomment %}
-<div class="project-description">
-  <h2>Welcome to the ALFA-Project</h2>
-  <p>
-    🔬 Our innovative research project focuses on understanding the connections between sexual fantasies, personality traits, and behavior. Through our international online survey, we aim to gain deeper insights into these phenomena and their impact on individual and social well-being. <br> 
-    
-    🌎 Here, we'll share updates on our progress, offer insights into psychological research on sexuality, and discuss the scientific process behind our work. Our research has been published in prestigious journals like the Journal of Sexual Medicine and the Journal of Sex Research, and we're committed to maintaining the highest standards of scientific excellence. <br> 
-    
-    🧠💬 Join us in exploring the fascinating world of human sexuality, and don't forget to participate in our study! <br>
-  </p>
-</div>
-{% comment %}End of the new welcome section{% endcomment %}
-
