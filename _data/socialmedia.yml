@@ -8,10 +8,10 @@
   class: icon-youtube
   title: "Videos about research and academic work"
 
-# - name: Twitter
-#  url: http://twitter.com/phlow
-#  class: icon-twitter
-#  title: "Immer das Neuste von Phlow gibt es auf Twitter"
+ - name: Twitter
+  url: http://twitter.com/alfaproject_phb
+  class: icon-twitter
+  title: "Tweeting about psychological research"
 
 - name: Facebook
   url: https://www.facebook.com/profile.php?id=100090489201795
