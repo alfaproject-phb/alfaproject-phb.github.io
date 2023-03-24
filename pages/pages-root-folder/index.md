@@ -18,11 +18,12 @@ widget2:
   image: widget-1-302x182.jpg
   text: 'Here you can find a quick and informative overview of our published papers.'
   
-#widget3:
-#  title: "Download Theme"
-#  url: 'https://github.com/Phlow/feeling-responsive'
-#  image: widget-github-303x182.jpg
-#  text: '<em>Feeling Responsive</em> is free and licensed under a MIT License. Make it your own and start building. 
+widget3:
+  title: "Our Blog"
+  url: 'http://alfaproject-phb.github.io/blog/'
+  image: widget-github-303x182.jpg
+  text: 'Here you can find updates on our research or interesting insights into our field and academic work' 
+
 #The code is well-documented and explains you how it works.'
 #
 # Use the call for action to show a button on the frontpage
@@ -36,7 +37,7 @@ widget2:
 #
 callforaction:
   url: https://www.soscisurvey.de/fantasy_2023/
-  text: Participaty in our study! ›
+  text: Participate in our study! ›
   style: alert
 permalink: /index.html
 #
@@ -50,7 +51,11 @@ homepage: true
 <div class="project-description">
   <h2>Welcome to the ALFA-Project</h2>
   <p>
-    Hier ist ein kurzer Text über das ALFA-Projekt und dessen Zielsetzung. Du kannst den Text so lang oder kurz gestalten, wie du möchtest, und weitere Informationen über das Projekt oder Links zu anderen Seiten hinzufügen.
+    🔬 Our innovative research project focuses on understanding the connections between sexual fantasies, personality traits, and behavior. Through our international online survey, we aim to gain deeper insights into these phenomena and their impact on individual and social well-being. 
+    
+    🌎 Here, we'll share updates on our progress, offer insights into psychological research on sexuality, and discuss the scientific process behind our work. Our research has been published in prestigious journals like the Journal of Sexual Medicine and the Journal of Sex Research, and we're committed to maintaining the highest standards of scientific excellence.
+    
+    🧠💬 Join us in exploring the fascinating world of human sexuality, and don't forget to participate in our study! Subscribe for regular updates and share our videos to help us reach a wider audience. Thank you for your support!
   </p>
 </div>
 {% comment %}End of the new welcome section{% endcomment %}
