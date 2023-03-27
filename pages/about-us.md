@@ -9,7 +9,57 @@ header:
 permalink           : "/about-us/"
 ---
 
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Head of Project</title>
+<style>
+  .container {
+    display: flex;
+    align-items: center;
+  }
+  img {
+    width: 100px; /* Du kannst die Bildgröße hier anpassen */
+    margin-right: 10px;
+  }
+</style>
+</head>
+<body>
+<div class="container">
+  <img src="https://just-studie.weebly.com/uploads/1/1/9/4/119469660/published/171220-003t-kb-rebecca-bondue-320dpi.jpg?1557927276" alt="Prof. Dr. Rebecca Bondü">
+  <p>Prof. Dr. Rebecca Bondü
+  </p>
+</div>
+</body>
+</html>
 
+
+
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Research Assistant</title>
+<style>
+  .container {
+    display: flex;
+    align-items: center;
+  }
+  img {
+    width: 100px; /* Du kannst die Bildgröße hier anpassen */
+    margin-right: 10px;
+  }
+</style>
+</head>
+<body>
+<div class="container">
+  <img src="https://psychologische-hochschule.de/wp-content/uploads/2019/01/joseph_birke.jpg" alt="M.Sc. Joseph Birke>
+  <p>Joseph Birke
+  </p>
+</div>
+</body>
+</html>
 
 
 
