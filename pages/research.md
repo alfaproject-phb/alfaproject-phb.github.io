@@ -3,13 +3,8 @@ layout              : page
 show_meta           : false
 title               : "Our current research"
 subheadline         : "Introducing our Longitudinal Study"
-teaser              : "Get involved!"
 header:
    image_fullwidth  : "header_unsplash_12.jpg"
-callforaction:
-  url: https://www.soscisurvey.de/fantasy_2023/
-  text: Participate in our study! ›
-  style: alert
 permalink           : "/research/"
 ---
 
@@ -30,3 +25,4 @@ If you participate in our study, we would like to question you again in 6 months
 
 Thank you for your participation!
 
+<a class="radius button small" href="https://www.soscisurvey.de/fantasy_2023/">Participate in our study! ›</a>
