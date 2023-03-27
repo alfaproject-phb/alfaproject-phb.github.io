@@ -3,7 +3,6 @@ layout              : page
 show_meta           : false
 title               : "About Us"
 subheadline         : "Introducing the ALFA-Project"
-teaser              : "A short introduction about us and the aim of the project"
 header:
   image_fullwidth: header_unsplash_12.jpg
 permalink           : "/about-us/"
@@ -21,7 +20,7 @@ permalink           : "/about-us/"
     margin-bottom: 20px; /* Abstand zwischen den Abschnitten */
   }
   img {
-    width: 300px; /* Du kannst die Bildgröße hier anpassen */
+    width: 200px; /* Du kannst die Bildgröße hier anpassen */
     margin-right: 10px;
   }
 </style>
@@ -29,11 +28,17 @@ permalink           : "/about-us/"
 <body>
 <div class="container">
   <img src="https://just-studie.weebly.com/uploads/1/1/9/4/119469660/published/171220-003t-kb-rebecca-bondue-320dpi.jpg?1557927276" alt="Prof. Dr. Rebecca Bondü">
-  <p>Prof. Dr. Rebecca Bondü</p>
+  <p>Prof. Dr. Rebecca Bondü<br>
+    Project Management<br>
+    r.bondue@phb.de
+  </p>
 </div>
 <div class="container">
   <img src="https://psychologische-hochschule.de/wp-content/uploads/2019/01/joseph_birke.jpg" alt="M.Sc. Joseph Birke">
-  <p>M.Sc. Joseph Birke</p>
+  <p>M.Sc. Joseph Birke<br>
+    Research Assistant<br>
+    j.birke@phb.de
+  </p>
 </div>
 </body>
 </html>
