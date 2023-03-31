@@ -19,9 +19,15 @@ permalink           : "/about-us/"
     align-items: center;
     margin-bottom: 20px; /* Abstand zwischen den Abschnitten */
   }
+  .container:first-of-type {
+    margin-top: 20px; /* Abstand zum Header */
+  }
   img {
-    width: 200px; /* Du kannst die Bildgröße hier anpassen */
+    width: 100px; /* Du kannst die Bildgröße hier anpassen */
     margin-right: 10px;
+  }
+  .logo {
+    width: 200px; /* Du kannst die Logo-Größe hier anpassen */
   }
 </style>
 </head>
