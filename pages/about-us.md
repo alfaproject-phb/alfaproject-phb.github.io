@@ -22,6 +22,10 @@ permalink           : "/about-us/"
   .container:first-of-type {
     margin-top: 50px; /* Abstand zum Header */
   }
+  img {
+    width: 100px; /* Du kannst die Bildgröße hier anpassen */
+    margin-right: 10px;
+  }
   .logo {
     width: 600px; /* Du kannst die Logo-Größe hier anpassen */
   }
