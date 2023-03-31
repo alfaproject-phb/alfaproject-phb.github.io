@@ -23,11 +23,11 @@ permalink           : "/about-us/"
     margin-top: 100px; /* Abstand zum Header */
   }
   img {
-    width: 200px; /* Du kannst die Bildgröße hier anpassen */
+    width: 100px; /* Du kannst die Bildgröße hier anpassen */
     margin-right: 10px;
   }
   .logo {
-    width: 800px; /* Du kannst die Logo-Größe hier anpassen */
+    width: 1600px; /* Du kannst die Logo-Größe hier anpassen */
   }
 </style>
 </head>
