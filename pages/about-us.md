@@ -4,7 +4,8 @@ show_meta           : false
 title               : "About Us"
 subheadline         : "Introducing the ALFA-Project"
 header              : no
-image               :
+image:
+    title: Logo_ALFA.png
 permalink           : "/about-us/"
 ---
 
@@ -23,7 +24,7 @@ permalink           : "/about-us/"
     margin-top: 10px; /* Abstand zum Header */
   }
   img {
-    width: 100px; /* Du kannst die Bildgröße hier anpassen */
+    width: 200px; /* Du kannst die Bildgröße hier anpassen */
     margin-right: 10px;
   }
   .logo {
