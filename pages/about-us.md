@@ -4,8 +4,6 @@ show_meta           : false
 title               : "About Us"
 subheadline         : "Introducing the ALFA-Project"
 header              : no
-image:
-    title: Logo_ALFA.png
 permalink           : "/about-us/"
 ---
 
@@ -24,7 +22,7 @@ permalink           : "/about-us/"
     margin-top: 10px; /* Abstand zum Header */
   }
   img {
-    width: 200px; /* Du kannst die Bildgröße hier anpassen */
+    width: 150px; /* Du kannst die Bildgröße hier anpassen */
     margin-right: 10px;
   }
   .logo {
@@ -35,17 +33,15 @@ permalink           : "/about-us/"
 <body>
 <div class="container">
   <img src="https://just-studie.weebly.com/uploads/1/1/9/4/119469660/published/171220-003t-kb-rebecca-bondue-320dpi.jpg?1557927276" alt="Prof. Dr. Rebecca Bondü">
-  <p>Prof. Dr. Rebecca Bondü<br>
+  <p><a href="https://www.psychologische-hochschule.de/forschung-lehre/professuren/prof-dr-rebecca-bondue/">Prof. Dr. Rebecca Bondü</a><br>
     Project Management<br>
-    r.bondue@phb.de
-  </p>
+    <a href="mailto:r.bondue@phb.de">r.bondue@phb.de</a></p>
 </div>
 <div class="container">
   <img src="https://psychologische-hochschule.de/wp-content/uploads/2019/01/joseph_birke.jpg" alt="M.Sc. Joseph Birke">
-  <p>M.Sc. Joseph Birke<br>
-    Research Assistant<br>
-    j.birke@phb.de
-  </p>
+  <p><a href="https://www.psychologische-hochschule.de/forschung-lehre/wissenschaftliche-mitarbeiterinnen/m-sc-joseph-birke/">M.Sc. Joseph Birke</a><br>
+Research Assistant<br>
+<a href="mailto:j.birke@phb.de">j.birke@phb.de</a></p>
 </div>
 </body>
 </html>
