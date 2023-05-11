@@ -10,18 +10,18 @@ header:
 widget1:
   title: "Current Research"
   url: 'http://alfaproject-phb.github.io/research/'
-  image: widget-1-302x182.jpg
+  image: widget-3-302x182.jpg
   text: 'Here you can find informations about our current research project. Get informed and participate'
 widget2:
   title: "Our Publications"
   url: 'http://alfaproject-phb.github.io/publication/'
-  image: widget-1-302x182.jpg
+  image: widget-2-302x182.jpg
   text: 'Here you can find our published papers.'
   
 widget3:
   title: "Our Blog"
   url: 'http://alfaproject-phb.github.io/blog/'
-  image: widget-github-303x182.jpg
+  image: widget-1-302x182.jpg
   text: 'Here you can find updates on our research or interesting insights into our field and academic work' 
 
 #The code is well-documented and explains you how it works.'
