@@ -3,8 +3,8 @@ layout              : page
 show_meta           : false
 title               : "About Us"
 subheadline         : "Introducing the ALFA-Project"
-header:
-  image_fullwidth: header_unsplash_12.jpg
+header              : no
+image               :
 permalink           : "/about-us/"
 ---
 
